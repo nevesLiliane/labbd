@@ -1,0 +1,12 @@
+wheel>=0.30.0
+flask>=0.12.2
+flask-wtf>=0.14.2
+flask-bootstrap>=3.3.7.1
+pyspark>=2.3.0
+pandas>=0.22.0
+spark_sklearn>=0.2.3
+scipy>=1.0.0
+keras>=2.1.5
+redis>=2.10.6
+pymonetdb>=1.1.1
+tensorflow>=1.6.0

@@ -1,0 +1,21 @@
+{
+  "pima-indians-diabetes": {
+                            "number_of_classes": 2,
+                            "classes_column_index": 8,
+                            "features_columns_indexes": "all",
+                            "features_columns_indexes_to_ignore": [],
+                            "data_source": "pima-indians-diabetes.data.txt.bz2",
+                            "train_data_source": "",
+                            "test_data_source": ""
+                            },
+
+  "MNIST":                 {
+                            "number_of_classes": 10,
+                            "classes_column_index": 0,
+                            "features_columns_indexes": "all",
+                            "features_columns_indexes_to_ignore": [],
+                            "data_source": "",
+                            "train_data_source": "mnist_train.csv.bz2",
+                            "test_data_source": "mnist_test.csv.bz2"
+                            }
+}
